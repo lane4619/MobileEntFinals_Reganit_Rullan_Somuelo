@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Mobile_Enterprise_Finals_Group</string>
-
-    <string name="register_text">
-        Don’t have an account? <font color="#2E86AB">Register</font>
-    </string>
-</resources>
