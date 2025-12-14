@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_loan_calculator.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_loan_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_register_header_gradient.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\register_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_btn_gradient_blue.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\btn_gradient_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_btn_gradient_green.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\btn_gradient_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_header_gradient.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.mobile_enterprise_finals_group.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.example.mobile_enterprise_finals_group.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_gradient_card.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\gradient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_dashboard_card_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\dashboard_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_loan_card_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\loan_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_status_rejected.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\status_rejected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_login_header_gradient.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\login_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_gradient_card_results.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\gradient_card_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_register_card_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\register_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_status_pending.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\status_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_empty_state_card.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\empty_state_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_input_field_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\input_field_bg.xml"
+    },
+    {
+        "merged": "com.example.mobile_enterprise_finals_group.app-debug-34:/layout_activity_registration.xml.flat",
+        "source": "com.example.mobile_enterprise_finals_group.app-main-36:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_status_approved.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\status_approved.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_login_card_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\login_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_dashboard_header_gradient.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\dashboard_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_demo_card_bg.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\demo_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\layout_activity_loan_status.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\layout\\activity_loan_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_input_login.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\input_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\drawable_input_rounded.xml.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\drawable\\input_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Alarie\\.gradle\\daemon\\8.13\\com.example.mobile_enterprise_finals_group.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
