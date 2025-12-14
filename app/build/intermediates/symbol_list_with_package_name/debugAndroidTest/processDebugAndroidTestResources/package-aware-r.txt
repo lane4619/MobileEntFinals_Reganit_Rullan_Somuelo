@@ -1,3 +1,0 @@
-com.example.mobile_enterprise_finals_group.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
