@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f4f8"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <TextView
+            android:id="@+id/tvLoanType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Loan Calculator"
+            android:textSize="28sp"
+            android:textColor="#0D47A1"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Loan Input Card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/gradient_card"
+            android:padding="24dp"
+            android:elevation="8dp"
+            android:layout_marginBottom="24dp"
+            android:clipToOutline="true"
+            android:layout_marginHorizontal="8dp"
+            android:radius="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter Loan Details"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:layout_marginBottom="20dp" />
+
+            <EditText
+                android:id="@+id/etLoanAmount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Loan Amount"
+                android:inputType="numberDecimal"
+                android:padding="16dp"
+                android:background="@drawable/input_rounded"
+                android:layout_marginBottom="16dp"
+                android:textColor="#0D47A1"
+                android:textColorHint="#B3E5FC" />
+
+            <EditText
+                android:id="@+id/etMonths"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Months to Pay"
+                android:inputType="number"
+                android:padding="16dp"
+                android:background="@drawable/input_rounded"
+                android:layout_marginBottom="16dp"
+                android:textColor="#0D47A1"
+                android:textColorHint="#B3E5FC" />
+
+            <EditText
+                android:id="@+id/etYearsService"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Years in Service (Special Loan)"
+                android:inputType="number"
+                android:padding="16dp"
+                android:background="@drawable/input_rounded"
+                android:visibility="gone"
+                android:layout_marginBottom="24dp"
+                android:textColor="#0D47A1"
+                android:textColorHint="#B3E5FC" />
+
+            <Button
+                android:id="@+id/btnCalculate"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="Calculate"
+                android:textColor="#ffffff"
+                android:backgroundTint="#0D47A1"
+                android:textSize="18sp"
+                android:layout_marginTop="8dp" />
+
+        </LinearLayout>
+
+        <!-- Results Card -->
+        <LinearLayout
+            android:id="@+id/layoutResults"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/gradient_card_results"
+            android:padding="24dp"
+            android:elevation="8dp"
+            android:visibility="gone"
+            android:clipToOutline="true"
+            android:layout_marginHorizontal="8dp"
+            android:radius="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calculation Results"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:id="@+id/tvResults"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Results will appear here"
+                android:textSize="16sp"
+                android:lineSpacingExtra="6dp"
+                android:textColor="#ffffff"
+                android:layout_marginBottom="24dp" />
+
+            <Button
+                android:id="@+id/btnApply"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="Apply for Loan"
+                android:textColor="#ffffff"
+                android:backgroundTint="#228B22"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
